@@ -61,3 +61,4 @@ target/
 # Editor files
 .sw?
 .idea/
+.DS_Store
